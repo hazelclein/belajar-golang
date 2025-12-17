@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdae352-664c-49b5-84cc-29c6083464ba" name="Changes" comment="">
+    <list default="true" id="42b7475a-aca5-43ae-aeb6-bd4c86da6f39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../a47/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a47/main2.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a47/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a47/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +21,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="36v8dGptoJUEDOoqGpE8f6k7HIz" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="36x7YbBhGPHpb8DQpA6Kq5Mpdy4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,14 +42,32 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/pribadi/project/belajar/belajar-golang/a47",
+    "last_opened_file_path": "C:/pribadi/project/belajar/belajar-golang/a48",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\pribadi\project\belajar\belajar-golang\a47" />
+      <recent name="C:\pribadi\project\belajar\belajar-golang\a48" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build a48" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="a48" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="a48" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main2.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build a48" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -58,11 +79,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3fdae352-664c-49b5-84cc-29c6083464ba" name="Changes" comment="" />
-      <created>1765875769692</created>
+      <changelist id="42b7475a-aca5-43ae-aeb6-bd4c86da6f39" name="Changes" comment="" />
+      <created>1765936417288</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1765875769692</updated>
+      <updated>1765936417288</updated>
     </task>
     <servers />
   </component>

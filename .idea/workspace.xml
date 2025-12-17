@@ -11,9 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="36g1949B8cdkfyVZ2orV7MMn249" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,9 +28,12 @@
     "RunOnceActivity.GoLinterPluginOnboardingV2": "true",
     "RunOnceActivity.GoLinterPluginStorageMigration": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/pribadi/project/belajar/belajar-golang",
     "node.js.detected.package.eslint": "true",
@@ -35,6 +41,32 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager" selected="Go Build.go build a19">
+    <configuration name="go build a19" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="belajar-golang" />
+      <working_directory value="$PROJECT_DIR$/a19" />
+      <kind value="PACKAGE" />
+      <package value="a19" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/a19/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build a20" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="belajar-golang" />
+      <working_directory value="$PROJECT_DIR$/a20" />
+      <kind value="PACKAGE" />
+      <package value="a20" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/a20/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build a19" />
+        <item itemvalue="Go Build.go build a20" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
