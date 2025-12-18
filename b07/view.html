@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>belajar template html function</title>
+	</head>
+	<body>
+		<p>
+			{{html "<h2>Hello</h2>"}}
+		</p>
+
+		{{if eq .Name "Hazel Clein Muhammad"}}
+			<p>Saya bernama Hazel!</p>
+		{{else if ne .Name "hasel"}}
+			<p>gavsdasvfusvfefvy</p>
+		{{end}}
+		
+		<p>
+			{{.SayHello "Halo semua nya!" "Kalian hebat!"}}
+		</p>
+
+		<p>
+			{{printf "%s saya tidak tau %s" "apakah kamu tau?" "Hazel!"}}
+		</p>
+
+		<p>
+			Hazel memiliki beberapa keahlian. {{len .Keahlian}} yaitu:
+			{{index .Keahlian 0}},
+			{{index .Keahlian 1}}, and 
+			{{index .Keahlian 2}}
+		</p>
+
+		{{$cond1 := true}}
+		{{$cond2 := false}}
+		
+		{{if or $cond1 $cond2}}
+			<p>terimakasih banyak!</p>
+		{{end}}
+	</body>
+</html>
